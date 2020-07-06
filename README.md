@@ -20,23 +20,79 @@ Below is a list of complete and ongoing public Data Science projects of mine.
  
 ## 1. Image Classification on the Fashion MNIST dataset using Convolutional Neural Networks <a name = 'fashion_MNIST'></a>
 
-Github does not represent certain features of a jupyter notebook well, such as the intra notebook anchors, so here's a link to open the notebook through nbviewer - [link](https://nbviewer.jupyter.org/github/VallabhReddy/Image-Classification-Fashion-MNIST-CNN/blob/master/Fashion%20MNIST%20Image%20Classification.ipynb)
+Github does not represent certain features of a jupyter notebook well, such as the intra notebook anchors, so here's a link to open the notebook through **NBViewer** - [link](https://nbviewer.jupyter.org/github/VallabhReddy/Image-Classification-Fashion-MNIST-CNN/blob/master/Fashion%20MNIST%20Image%20Classification.ipynb)
 
-Here is the Github link for the same notebook - [link](https://github.com/VallabhReddy/Image-Classification-Fashion-MNIST-CNN/blob/master/Fashion%20MNIST%20Image%20Classification.ipynb)
+Here is the **Github link** for the same notebook - [link](https://github.com/VallabhReddy/Image-Classification-Fashion-MNIST-CNN/blob/master/Fashion%20MNIST%20Image%20Classification.ipynb)
 
-```markdown
+
 ### Introduction
+```markdown
 The objective of this project was to build an image classifier that could recognize the category of apparel in the photo fed into it.
-
+```
 ### Dataset
-The model is trained and tested on the Fashion MNIST dataset
+```markdown
+The model is trained and tested on the Fashion MNIST dataset. The dataset is provided by the research branch of Zalando, a European e-commerce company. The dataset is made up of 28x28 grayscale images of 10 categories of apparel. The mapping for these categories is given below.
 
+<table>
+<thead>
+<tr>
+<th>Label</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0</td>
+<td>T-shirt/top</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Trouser</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Pullover</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Dress</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Coat</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Sandal</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Shirt</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Sneaker</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Bag</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Ankle boot</td>
+</tr>
+</tbody>
+</table>
+```
 ### Methodology
+```markdown
+```
 
 ### Results
-
-
+```markdown
 ```
+
+
 
 ```markdown
 
