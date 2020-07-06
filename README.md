@@ -9,6 +9,8 @@ My name is Vallabh Reddy. I have a bachelor's in Computer Science and a master's
 In my free time I like to read non-fiction works detailing natural and man-made systems and I play squash and videogames. Also, I'm always willing to try new board games.
 
 ## Portfolio
+Below is a list of complete and ongoing public Data Science projects of mine. 
+
 ```markdown
 Syntax highlighted code block
 
