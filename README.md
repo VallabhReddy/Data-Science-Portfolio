@@ -111,6 +111,7 @@ We are given the following datasets.
 **Training set 1**
 
 An all English dataset.
+
 <table>
 <thead>
 <tr>
@@ -128,6 +129,7 @@ An all English dataset.
 <td>A boolean value, 1 = toxic, 0 = non-toxic.</td>
 </tr>
 </table>
+
 
 
 **Training set 2**
