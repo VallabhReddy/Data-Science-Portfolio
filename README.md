@@ -1,16 +1,24 @@
-## Welcome to Vallabh's Portfolio
+# Welcome to Vallabh's Portfolio
 
-This website was created primarily to share my data science projects and learnings with anyone who's willing to listen to my ramblings. But it may evolve over time.
+This website exists primarily to share my data science projects and learnings with anyone who's willing to listen to my ramblings. But it may evolve over time.
 
-### About Me
+## About Me
 
 My name is Vallabh Reddy. I have a bachelor's in Computer Science and a master's in Business Analytics. I have been working in the Data Science field since 2015 across a few domains, namely, fintech, healthcare and retail. Mu Sigma, a decision sciences firm to which companies outsource their analytics and problem solving, was my first company. After which I worked at Amazon's Last Mile department. I'm a 2020 University of Cincinnati grad. Yes, I'm one from the Coronavirus wave of Bearcats.
 
 In my free time I like to read non-fiction works detailing natural and man-made systems and I play squash and videogames. Also, I'm always willing to try new board games.
 
-## Portfolio
+# Portfolio
 Below is a list of complete and ongoing public Data Science projects of mine. 
 
+1. [Image Classification Using Convolutional Neural Networks on the Fashion MNIST dataset](#fashion_MNIST)
+2. [Multilingual Toxic Comments Classification with only English training data - RoBERTa NLP Transformer](#multilingual_RoBERTa)
+3. [USA Foreign Trade Analysis](#US_trade_analysis)
+4. [Kickstarter Campaign Success Prediction](#Kickstarter)
+
+
+ 
+## 
 ```markdown
 Syntax highlighted code block
 
