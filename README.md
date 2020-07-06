@@ -88,9 +88,9 @@ Using Keras for Python, the model is built of Convolutional Neural Networks(CNN)
 I was able to achieve a 91-93% accuracy of classifications on the test set using a 13 layer network.
 
 ## 2. Multilingual Toxic Comments Classification <a name = 'multilingual_RoBERTa'></a>
+This project was a kaggle submission, and can be found [here](https://www.kaggle.com/vallabhreddy/eda-and-roberta-using-huggingface-trasformers)
 
 ### Introduction 
-
 The Conversation AI team, a research initiative founded by Google and Jigsaw, is tasked with improving the vigilance against online toxicity in conversation. The goal of [this competition](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/overview) is to be able to predict the toxicity of multilingual comments using only English comments as our training data. 
 
 Excerpts from the competition are given below.
@@ -105,29 +105,112 @@ Excerpts from the competition are given below.
 >
 >*Disclaimer: The dataset for this competition contains text that may be considered profane, vulgar, or offensive.*
 
+### Datasets
+We are given the following datasets.
+
+**Training set 1**
+An all English dataset.
+<table>
+<thead>
+<tr>
+<th>Column</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Comment_text</td>
+<td>Contains the string that represents the comment.</td>
+</tr>
+<tr>
+<td>Toxic</td>
+<td>A boolean value, 1 = toxic, 0 = non-toxic.</td>
+</tr>
+</table>
+
+**Training set 2**
+An all English dataset.
+<table>
+<thead>
+<tr>
+<th>Column</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Comment_text</td>
+<td>Contains the string that represents the comment.</td>
+</tr>
+<tr>
+<td>Toxic</td>
+<td>A value between 0 and 1 representing the probability of the comment being toxic. </td>
+</tr>
+</table>
 
 
-# Header 1
-## Header 2
-### Header 3
+**Validation Set**
+Has a few languages aside from English.
+<table>
+<thead>
+<tr>
+<th>Column</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Comment_text</td>
+<td>Contains the string that represents the comment.</td>
+</tr>
+<tr>
+<td>Toxic</td>
+<td>A boolean value, 1 = toxic, 0 = non-toxic.</td>
+</tr>
+<tr>
+<td>Lang</td>
+<td>Two letter representation of the language of the comment. 'es'= Espaniol, 'it' = Italian etc.</td>
+</tr>
+</table>
 
-- Bulleted
-- List
+**Test Set**
+Has multiple languages outside of English or what was available in the validation set.
+<table>
+<thead>
+<tr>
+<th>Column</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Comment_text</td>
+<td>Contains the string that represents the comment.</td>
+</tr>
+<tr>
+<td>Lang</td>
+<td>Two letter representation of the language of the comment. 'es'= Espaniol, 'it' = Italian etc.</td>
+</tr>
+</table>
 
-1. Numbered
-2. List
+### Methodology
+I employed transfer learning here. Which means I made use of a model that is pretrained at language comprehension and trained it to identify toxic comments. The specific model I used is Facebook's RoBERTa which is a version of a BERT Transformer. The Transformer is a deep learning NLP model introduced in the 2017 that is able to make sense of a word within the context of the sentence, i.e., it reads the entire sentence of words from left to right as well as right to left before making final interpretations of the word. 
 
-**Bold** and _Italic_ and `Code` text
+The model consists of components called Encoder and Decoder which, well, encode words into intermediate representations, and decode this representation in a language respectively. This is precisely what makes the Transformer models multilingual. If the encoder is trained in multiple languages, they can all be reduced to the same intermediate representation, further the Decoder can be used to output a whole different language thus enabling the Transformer to be used as a translation tool. More specific to our problem, this feature is what let's us get away with using an all English training dataset to classify toxic comments from other languages. The Transformer has already been trained to interpret the different languages in our test and validation sets.
 
-[Link](url) and ![Image](src)
+### Results
+I was able to achieve a test accuracy of 92.9%.
 
+## 3. USA Foreign Trade Analysis <a name = 'US_trade_analysis'></a>
+Here is the link to the notebook hosted on github but opened through **[NBViewer](https://nbviewer.jupyter.org/github/VallabhReddy/US-Trade-Analysis/blob/master/Notebooks/US%20Trade%20Analysis.ipynb)**.
+Here is the **[Github link](https://github.com/VallabhReddy/US-Trade-Analysis/blob/master/Notebooks/US%20Trade%20Analysis.ipynb)**.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Introduction
+The nature of this project was simply exploratory. I find the economy and its workings fascinating and wanted to look into how US foreign trade has varied over time. This analysis was conducted for the years 1998-2018.
 
-### Jekyll Themes
+### Datasets
+     1. [US Trade Data](https://usatrade.census.gov) - from USA Trade online hosted by the US Department of Commerce.
+     2. [USD CPI Data](https://www.bls.gov/cpi/) - from the Bureau of Labor Statistics website hosted by the United States Department of Labor.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/VallabhReddy/Data-Science-Portfolio---Vallabh-Reddy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Methodology
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
