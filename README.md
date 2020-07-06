@@ -26,11 +26,9 @@ Here is the **Github link** for the same notebook - [link](https://github.com/Va
 
 
 ### Introduction
-```markdown
 The objective of this project was to build an image classifier that could recognize the category of apparel in the photo fed into it.
-```
+
 ### Dataset
-```markdown
 The model is trained and tested on the Fashion MNIST dataset. The dataset is provided by the research branch of Zalando, a European e-commerce company. The dataset is made up of 28x28 grayscale images of 10 categories of apparel. The mapping for these categories is given below.
 
 <table>
@@ -83,18 +81,11 @@ The model is trained and tested on the Fashion MNIST dataset. The dataset is pro
 </tr>
 </tbody>
 </table>
-```
+
 ### Methodology
-```markdown
-```
+
 
 ### Results
-```markdown
-```
-
-
-
-```markdown
 
 Syntax highlighted code block
 
@@ -111,7 +102,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
