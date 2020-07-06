@@ -24,12 +24,11 @@ Github does not represent certain features of a jupyter notebook well, such as t
 
 Here is the **Github link** for the same notebook - [link](https://github.com/VallabhReddy/Image-Classification-Fashion-MNIST-CNN/blob/master/Fashion%20MNIST%20Image%20Classification.ipynb)
 
-
 ### Introduction
 The objective of this project was to build an image classifier that could recognize the category of apparel in the photo fed into it.
 
 ### Dataset
-The model is trained and tested on the Fashion MNIST dataset. The dataset is provided by the research branch of Zalando, a European e-commerce company. The dataset is made up of 28x28 grayscale images of 10 categories of apparel. The mapping for these categories is given below.
+The model is trained and tested on the [Fashion MNIST dataset](https://github.com/zalandoresearch/fashion-mnist). The dataset is provided by the research branch of Zalando, a European e-commerce company. The dataset is made up of 28x28 grayscale images of 10 categories of apparel. There are 60,000 observations in the training set and 10,000 observations in the test set. The mapping for the 10 categories of apparel is given below.
 
 <table>
 <thead>
@@ -83,9 +82,10 @@ The model is trained and tested on the Fashion MNIST dataset. The dataset is pro
 </table>
 
 ### Methodology
-
+Using Keras for Python, the model is built of Convolutional Neural Networks(CNN) which are especially effective in image comprehension. The notebook contains several architectures of CNNs and their performance is compared. I used the GPU implementation of TensorFlow since this increases the speed of deep learning model training exponentially, but the drawback is that the results are not perfectly reproducible and setting a seed does not work for the randomizing operations performed by the GPU.
 
 ### Results
+I was able to achieve a 91-93% accuracy of classifications on the test set using a 13 layer network.
 
 Syntax highlighted code block
 
