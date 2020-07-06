@@ -11,15 +11,17 @@ In my free time I like to read non-fiction works detailing natural and man-made 
 # Portfolio
 Below is a list of complete and ongoing public Data Science projects of mine. 
 
-1. [Image Classification Using Convolutional Neural Networks on the Fashion MNIST dataset](#fashion_MNIST)
+1. [Image Classification on the Fashion MNIST dataset using Convolutional Neural Networks](#fashion_MNIST)
 2. [Multilingual Toxic Comments Classification with only English training data - RoBERTa NLP Transformer](#multilingual_RoBERTa)
 3. [USA Foreign Trade Analysis](#US_trade_analysis)
 4. [Kickstarter Campaign Success Prediction](#Kickstarter)
 
 
  
-## 
+## 1. Image Classification on the Fashion MNIST dataset using Convolutional Neural Networks <a name = 'fashion_MNIST'></a>
+
 ```markdown
+
 Syntax highlighted code block
 
 # Header 1
