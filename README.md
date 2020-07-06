@@ -1,13 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to Vallabh's Portfolio
 
-You can use the [editor on GitHub](https://github.com/VallabhReddy/Data-Science-Portfolio---Vallabh-Reddy/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This website was created primarily to share my data science projects and learnings with anyone who's willing to listen to my ramblings. But it may evolve over time.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About Me
 
-### Markdown
+My name is Vallabh Reddy. I have a bachelor's in Computer Science and a master's in Business Analytics. I have been working in the Data Science field since 2015 across a few domains, namely, fintech, healthcare and retail. Mu Sigma, a decision sciences firm to which companies outsource their analytics and problem solving, was my first company. After which I worked at Amazon's Last Mile department. I'm a 2020 University of Cincinnati grad. Yes, I'm one from the Coronavirus wave of Bearcats.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In my free time I like to read non-fiction works detailing natural and man-made systems and I play squash and videogames. Also, I'm always willing to try new board games.
 
+## Portfolio
 ```markdown
 Syntax highlighted code block
 
