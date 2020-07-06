@@ -214,7 +214,65 @@ The nature of this project was simply exploratory. I find the economy and its wo
 
 ### Datasets
   1. [US Trade Data](https://usatrade.census.gov) - from USA Trade online hosted by the US Department of Commerce.
+     Note: The category of the goods being traded are sort of broad and usually do not mention the exact product. For example, 'Automotive
   2. [USD CPI Data](https://www.bls.gov/cpi/) - from the Bureau of Labor Statistics website hosted by the United States Department of Labor.
+     I used the CPI data to adjust for inflation throughout these 20 years by setting the trade value to the dollar value of latest month in the dataset.
 
-### Methodology
+### Insights
+The analysis was done around trade value and not trade volume.
+<table>
+<thead>
+<tr>
+<th>No.</th>
+<th>Insight</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1.</td>
+<td>Trade is usually bilateral with all countries, however there are a few countries which during certain years have imported from, but not exported goods to the US or vice versa.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>All categories of goods except one are both imported and exported.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>There has always been a trade deficit, i.e., total imported value is always higher than total exported value.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>There is a prominent dip in imports and exports around the 2009 recession.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Nuclear Reactors, Boilers, Machinery etc. parts is the highest value import and export throughout the duration, except during the 2000-2010s where it is second in the imports.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Pharmaceutical imports have climbed several ranks between the 2000s and the 2010s.</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Mineral fuel exports have seen a substantial rise from the 90s to the 2010s</td>
+</tr>
+<tr>
+<td>8</td>
+<td>China, Canada and Mexico rank 1st, 2nd and 3rd among the countries the US imports from.</td>
+</tr>
+<tr>
+<td>9</td>
+<td>China has climbed the ranks to number 1 for number 4 over these 20 years.</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Canada, Mexico and China rank 1st, 2nd and 3rd among the countries the US exports most to.</td>
+</tr>
+<tr>
+<td>11</td>
+<td>The US exports to China considerably lower total value of goods than she imports from her.</td>
+</tr>
+</table>
+
+
 
