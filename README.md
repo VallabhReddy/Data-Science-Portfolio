@@ -109,6 +109,7 @@ Excerpts from the competition are given below.
 We are given the following datasets.
 
 **Training set 1**
+
 An all English dataset.
 <table>
 <thead>
@@ -129,6 +130,7 @@ An all English dataset.
 </table>
 
 **Training set 2**
+
 An all English dataset.
 <table>
 <thead>
@@ -150,6 +152,7 @@ An all English dataset.
 
 
 **Validation Set**
+
 Has a few languages aside from English.
 <table>
 <thead>
@@ -174,6 +177,7 @@ Has a few languages aside from English.
 </table>
 
 **Test Set**
+
 Has multiple languages outside of English or what was available in the validation set.
 <table>
 <thead>
@@ -209,8 +213,8 @@ Here is the **[Github link](https://github.com/VallabhReddy/US-Trade-Analysis/bl
 The nature of this project was simply exploratory. I find the economy and its workings fascinating and wanted to look into how US foreign trade has varied over time. This analysis was conducted for the years 1998-2018.
 
 ### Datasets
-     1. [US Trade Data](https://usatrade.census.gov) - from USA Trade online hosted by the US Department of Commerce.
-     2. [USD CPI Data](https://www.bls.gov/cpi/) - from the Bureau of Labor Statistics website hosted by the United States Department of Labor.
+  1. [US Trade Data](https://usatrade.census.gov) - from USA Trade online hosted by the US Department of Commerce.
+  2. [USD CPI Data](https://www.bls.gov/cpi/) - from the Bureau of Labor Statistics website hosted by the United States Department of Labor.
 
 ### Methodology
 
