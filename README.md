@@ -20,6 +20,24 @@ Below is a list of complete and ongoing public Data Science projects of mine.
  
 ## 1. Image Classification on the Fashion MNIST dataset using Convolutional Neural Networks <a name = 'fashion_MNIST'></a>
 
+Github does not represent certain features of a jupyter notebook well, such as the intra notebook anchors, so here's a link to open the notebook through nbviewer - [link](https://nbviewer.jupyter.org/github/VallabhReddy/Image-Classification-Fashion-MNIST-CNN/blob/master/Fashion%20MNIST%20Image%20Classification.ipynb)
+
+Here is the Github link for the same notebook - [link](https://github.com/VallabhReddy/Image-Classification-Fashion-MNIST-CNN/blob/master/Fashion%20MNIST%20Image%20Classification.ipynb)
+
+```markdown
+### Introduction
+The objective of this project was to build an image classifier that could recognize the category of apparel in the photo fed into it.
+
+### Dataset
+The model is trained and tested on the Fashion MNIST dataset
+
+### Methodology
+
+### Results
+
+
+```
+
 ```markdown
 
 Syntax highlighted code block
