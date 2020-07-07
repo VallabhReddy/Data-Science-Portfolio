@@ -107,7 +107,7 @@ Excerpts from the competition are given below.
 ### Datasets
 We are given the following datasets.
 
-**Training set 1**
+#### Training set 1
 
 An all English dataset.
 
@@ -127,11 +127,12 @@ An all English dataset.
 <td>Toxic</td>
 <td>A boolean value, 1 = toxic, 0 = non-toxic.</td>
 </tr>
+</tbody>
 </table>
 
 
 
-**Training set 2**
+#### Training set 2
 
 An all English dataset.
 <table>
@@ -150,10 +151,11 @@ An all English dataset.
 <td>Toxic</td>
 <td>A value between 0 and 1 representing the probability of the comment being toxic. </td>
 </tr>
+</tbody>
 </table>
 
 
-**Validation Set**
+#### Validation Set
 
 Has a few languages aside from English.
 <table>
@@ -176,9 +178,10 @@ Has a few languages aside from English.
 <td>Lang</td>
 <td>Two letter representation of the language of the comment. 'es'= Espaniol, 'it' = Italian etc.</td>
 </tr>
+</tbody>
 </table>
 
-**Test Set**
+#### Test Set
 
 Has multiple languages outside of English or what was available in the validation set.
 <table>
@@ -197,6 +200,7 @@ Has multiple languages outside of English or what was available in the validatio
 <td>Lang</td>
 <td>Two letter representation of the language of the comment. 'es'= Espaniol, 'it' = Italian etc.</td>
 </tr>
+</tbody>
 </table>
 
 ### Methodology
@@ -274,6 +278,7 @@ The analysis was done around trade value and not trade volume.
 <td>11</td>
 <td>The US exports to China considerably lower total value of goods than she imports from her.</td>
 </tr>
+</tbody>
 </table>
 
 
