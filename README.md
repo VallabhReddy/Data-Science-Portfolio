@@ -283,12 +283,13 @@ The analysis was done around trade value and not trade volume.
 
 ## 4. Kickstarter Campaign Success Prediction
 This was a collaborative project I worked on along with [Utkarsh Singh](), [Soumya Halder](), [Saurabh Wani]() and [Rinisha Marar]().
-There are three python notebooks for this project.
-Part 1 - [Wrangling, EDA, Logistic Regression and Neural Networks]()
-Part 2 - [Text Mining, Bag of Words Generation, Naive Bayes Classifier](https://nbviewer.jupyter.org/github/VallabhReddy/Kickstarter-Campaign-Success-Prediction/blob/master/Python%20Scripts/Text%20Mining%20%26%20Modeling%20-%20Part%202.ipynb)
-Part 3 - [Decision Trees and Random Forest](https://nbviewer.jupyter.org/github/VallabhReddy/Kickstarter-Campaign-Success-Prediction/blob/master/Python%20Scripts/Trees%20-%20Part%203.ipynb)
-
 Link to the [Github portal](https://github.com/VallabhReddy/Kickstarter-Campaign-Success-Prediction).
+
+There are three python notebooks for this project.
+- Part 1 - [Wrangling, EDA, Logistic Regression and Neural Networks]()
+- Part 2 - [Text Mining, Bag of Words Generation, Naive Bayes Classifier](https://nbviewer.jupyter.org/github/VallabhReddy/Kickstarter-Campaign-Success-Prediction/blob/master/Python%20Scripts/Text%20Mining%20%26%20Modeling%20-%20Part%202.ipynb)
+- Part 3 - [Decision Trees and Random Forest](https://nbviewer.jupyter.org/github/VallabhReddy/Kickstarter-Campaign-Success-Prediction/blob/master/Python%20Scripts/Trees%20-%20Part%203.ipynb)
+
 For more details please refer to our [Final Report](https://github.com/VallabhReddy/Kickstarter-Campaign-Success-Prediction/blob/master/Kickstarter%20Campaign%20Success%20Prediction%20Report.docx)
 Or our [Slideshow with Narration](https://github.com/VallabhReddy/Kickstarter-Campaign-Success-Prediction/blob/master/Kickstarter%20Campaign%20Success%20Prediction%20Slides.pptx).
 
