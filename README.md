@@ -13,7 +13,7 @@ Below is a list of complete and ongoing public Data Science projects of mine.
 1. [Image Classification on the Fashion MNIST dataset using Convolutional Neural Networks](#fashion_MNIST)
 2. [Multilingual Toxic Comments Classification with only English training data - RoBERTa NLP Transformer](#multilingual_RoBERTa)
 3. [USA Foreign Trade Analysis](#US_trade_analysis)
-4. [Kickstarter Campaign Success Prediction](#Kickstarter)
+4. [Kickstarter Campaign Success Prediction](#kickstarter)
 
 
  
@@ -235,7 +235,7 @@ The analysis was done around trade value and not trade volume.
 </thead>
 <tbody>
 <tr>
-<td>1.</td>
+<td>1</td>
 <td>Trade is usually bilateral with all countries, however there are a few countries which during certain years have imported from, but not exported goods to the US or vice versa.</td>
 </tr>
 <tr>
@@ -268,7 +268,7 @@ The analysis was done around trade value and not trade volume.
 </tr>
 <tr>
 <td>9</td>
-<td>China has climbed the ranks to number 1 for number 4 over these 20 years.</td>
+<td>China has climbed the ranks to number 1 for imports from number 4 over these 20 years.</td>
 </tr>
 <tr>
 <td>10</td>
@@ -281,5 +281,13 @@ The analysis was done around trade value and not trade volume.
 </tbody>
 </table>
 
+## 4. Kickstarter Campaign Success Prediction
+The 
+### Introduction
 
+### Datasets
+
+### Methodology
+
+### Results
 
