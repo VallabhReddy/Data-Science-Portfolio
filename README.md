@@ -282,12 +282,25 @@ The analysis was done around trade value and not trade volume.
 </table>
 
 ## 4. Kickstarter Campaign Success Prediction
-The 
+This was a collaborative project I worked on along with [Utkarsh Singh](), [Soumya Halder](), [Saurabh Wani]() and [Rinisha Marar]().
+There are three python notebooks for this project.
+Part 1 - [Wrangling, EDA, Logistic Regression and Neural Networks]()
+Part 2 - [Text Mining, Bag of Words Generation, Naive Bayes Classifier](https://nbviewer.jupyter.org/github/VallabhReddy/Kickstarter-Campaign-Success-Prediction/blob/master/Python%20Scripts/Text%20Mining%20%26%20Modeling%20-%20Part%202.ipynb)
+Part 3 - [Decision Trees and Random Forest](https://nbviewer.jupyter.org/github/VallabhReddy/Kickstarter-Campaign-Success-Prediction/blob/master/Python%20Scripts/Trees%20-%20Part%203.ipynb)
+
+Link to the [Github portal](https://github.com/VallabhReddy/Kickstarter-Campaign-Success-Prediction).
+For more details please refer to our [Final Report](https://github.com/VallabhReddy/Kickstarter-Campaign-Success-Prediction/blob/master/Kickstarter%20Campaign%20Success%20Prediction%20Report.docx)
+Or our [Slideshow with Narration](https://github.com/VallabhReddy/Kickstarter-Campaign-Success-Prediction/blob/master/Kickstarter%20Campaign%20Success%20Prediction%20Slides.pptx).
+
 ### Introduction
+Kickstarter, launched in April 2009, is an online crowd-funding platform for entrepreneurs to raise funds from the online community. Campaigns are intended to turn ideas into reality. The objective of this project was to predict the outcome (success/failure) of a campaign based on the available parameters post launch.
 
 ### Datasets
+We got our campaign data from [Web Robots](https://webrobots.io/kickstarter-datasets/), a website where several datasets are scrapped off the internet and made available to the public.
 
 ### Methodology
+We tried out several models - Logistic Regression, Naive Bayes Classifier, Decision Trees, Random Forest and Neural Networks. There is an in depth performance comparison in the report and the slides. We also generated a bag of words and fed this into our models which lifted our model accuracy and sensitivity. 
 
 ### Results
+Our Random Forest model had the best overall accuracy, i.e. a value of 75%.
 
