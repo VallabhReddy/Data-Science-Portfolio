@@ -282,16 +282,16 @@ The analysis was done around trade value and not trade volume.
 </table>
 
 ## 4. Kickstarter Campaign Success Prediction
-This was a collaborative project I worked on along with [Utkarsh Singh](), [Soumya Halder](), [Saurabh Wani]() and [Rinisha Marar]().
+This was a collaborative project I worked on along with [Utkarsh Singh](https://github.com/utkarshsingh710), [Soumya Halder](), [Saurabh Wani](https://github.com/saurabhw007) and [Rinisha Marar]().
 Link to the [Github portal](https://github.com/VallabhReddy/Kickstarter-Campaign-Success-Prediction).
 
 There are three python notebooks for this project.
-- Part 1 - [Wrangling, EDA, Logistic Regression and Neural Networks]()
+- Part 1 - [Wrangling, EDA, Logistic Regression and Neural Networks](https://nbviewer.jupyter.org/github/VallabhReddy/Kickstarter-Campaign-Success-Prediction/blob/master/Python%20Scripts/Kickstarter%20Analysis%20%26%20Feature%20Engineering%20-%20Part%201.ipynb)
 - Part 2 - [Text Mining, Bag of Words Generation, Naive Bayes Classifier](https://nbviewer.jupyter.org/github/VallabhReddy/Kickstarter-Campaign-Success-Prediction/blob/master/Python%20Scripts/Text%20Mining%20%26%20Modeling%20-%20Part%202.ipynb)
 - Part 3 - [Decision Trees and Random Forest](https://nbviewer.jupyter.org/github/VallabhReddy/Kickstarter-Campaign-Success-Prediction/blob/master/Python%20Scripts/Trees%20-%20Part%203.ipynb)
 
 For more details please refer to our [Final Report](https://github.com/VallabhReddy/Kickstarter-Campaign-Success-Prediction/blob/master/Kickstarter%20Campaign%20Success%20Prediction%20Report.docx)
-Or our [Slideshow with Narration](https://github.com/VallabhReddy/Kickstarter-Campaign-Success-Prediction/blob/master/Kickstarter%20Campaign%20Success%20Prediction%20Slides.pptx).
+or our [Slideshow with Narration](https://github.com/VallabhReddy/Kickstarter-Campaign-Success-Prediction/blob/master/Kickstarter%20Campaign%20Success%20Prediction%20Slides.pptx).
 
 ### Introduction
 Kickstarter, launched in April 2009, is an online crowd-funding platform for entrepreneurs to raise funds from the online community. Campaigns are intended to turn ideas into reality. The objective of this project was to predict the outcome (success/failure) of a campaign based on the available parameters post launch.
