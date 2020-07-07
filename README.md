@@ -286,7 +286,7 @@ This was a collaborative project I worked on along with [Utkarsh Singh](https://
 Link to the [Github portal](https://github.com/VallabhReddy/Kickstarter-Campaign-Success-Prediction).
 
 There are three python notebooks for this project.
-- Part 1 - [Wrangling, EDA, Logistic Regression and Neural Networks](https://nbviewer.jupyter.org/github/VallabhReddy/Kickstarter-Campaign-Success-Prediction/blob/master/Python%20Scripts/Kickstarter%20Analysis%20%26%20Feature%20Engineering%20-%20Part%201.ipynb)
+- Part 1 - [Wrangling, EDA, Logistic Regression and Neural Networks](https://github.com/VallabhReddy/Kickstarter-Campaign-Success-Prediction/blob/master/Python%20Scripts/Kickstarter%20Analysis%20%26%20Feature%20Engineering%20%26%20Neural%20Networks%20-%20Part%201.ipynb)
 - Part 2 - [Text Mining, Bag of Words Generation, Naive Bayes Classifier](https://nbviewer.jupyter.org/github/VallabhReddy/Kickstarter-Campaign-Success-Prediction/blob/master/Python%20Scripts/Text%20Mining%20%26%20Modeling%20-%20Part%202.ipynb)
 - Part 3 - [Decision Trees and Random Forest](https://nbviewer.jupyter.org/github/VallabhReddy/Kickstarter-Campaign-Success-Prediction/blob/master/Python%20Scripts/Trees%20-%20Part%203.ipynb)
 
