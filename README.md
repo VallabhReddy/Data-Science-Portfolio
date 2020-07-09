@@ -281,7 +281,7 @@ The analysis was done around trade value and not trade volume.
 </tbody>
 </table>
 
-## 4. Kickstarter Campaign Success Prediction
+## 4. Kickstarter Campaign Success Prediction <a name = 'Kickstarter'></a>
 This was a collaborative project I worked on along with [Utkarsh Singh](https://github.com/utkarshsingh710), [Soumya Halder](), [Saurabh Wani](https://github.com/saurabhw007) and [Rinisha Marar]().
 Link to the [Github portal](https://github.com/VallabhReddy/Kickstarter-Campaign-Success-Prediction).
 
