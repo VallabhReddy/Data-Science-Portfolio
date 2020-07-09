@@ -216,6 +216,8 @@ I was able to achieve a test accuracy of 92.9%.
 ## 3. USA Foreign Trade Analysis <a name = 'US_trade_analysis'></a>
 Here is the link to the notebook hosted on github but opened through **[NBViewer](https://nbviewer.jupyter.org/github/VallabhReddy/US-Trade-Analysis/blob/master/Notebooks/US%20Trade%20Analysis.ipynb)**.
 Here is the **[Github link](https://github.com/VallabhReddy/US-Trade-Analysis/blob/master/Notebooks/US%20Trade%20Analysis.ipynb)**.
+I've also developed a dashboard using this data on Tableau and hosted it publicly [here](https://public.tableau.com/profile/vallabh.reddy.burla#!/vizhome/Burla_Vallabh_Reddy_USTradeAnalysisv2_0/CommodityView).
+It consists of commodity level, country level views of trade value as well as rankings.
 
 ### Introduction
 The nature of this project was simply exploratory. I find the economy and its workings fascinating and wanted to look into how US foreign trade has varied over time. This analysis was conducted for the years 1998-2018.
