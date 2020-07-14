@@ -108,6 +108,7 @@ We can see that these are not too complicated, they are usually straght lines or
 ![First Layer](https://github.com/VallabhReddy/Image-Classification-Fashion-MNIST-CNN/blob/master/Images/Conv1.png)
 
 *Feature maps of the 1st Convolutional layer*
+
 In certain images the vertical sides of the shirt are emphasized whereas in others, horizontal bottoms and tops are focused. 
 
 We mentioned earlier that as we get into deeper layers, the activation patterns change. So let's look at the 4th layer.
