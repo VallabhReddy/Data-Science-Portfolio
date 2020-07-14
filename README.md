@@ -93,6 +93,7 @@ Here's a look at a few sample images.
 Using Keras for Python, the model is built of *Convolutional Neural Networks(CNN)* which are especially effective in image comprehension. This is because each neuron in these Convolutional layers have a component called *kernel* which is trained to look for certain patterns in the image, and pass the output called *feature map* on to the next layer to be built upon. In this way, layer after layer the patterns that the network can detect get more complex.
 
 Let's take a look at kernels from the first Convolutional layer.
+
 ![kernels](https://github.com/VallabhReddy/Image-Classification-Fashion-MNIST-CNN/blob/master/Images/Kernel%20Collection.png)
 
 *1st Convolutional Layer Kernels*
