@@ -82,8 +82,41 @@ The model is trained and tested on the [Fashion MNIST dataset](https://github.co
 </tbody>
 </table>
 
+
+Here's a look at a few sample images.
+
+![Sample Images](https://github.com/VallabhReddy/Image-Classification-Fashion-MNIST-CNN/blob/master/Images/Sample%20Images.png)
+
+*Sample Images* 
+
 ### Methodology 
-Using Keras for Python, the model is built of Convolutional Neural Networks(CNN) which are especially effective in image comprehension. The notebook contains several architectures of CNNs and their performance is compared. I used the GPU implementation of TensorFlow since this increases the speed of deep learning model training exponentially, but the drawback is that the results are not perfectly reproducible and setting a seed does not work for the randomizing operations performed by the GPU.
+Using Keras for Python, the model is built of *Convolutional Neural Networks(CNN)* which are especially effective in image comprehension. This is because each neuron in these Convolutional layers have a component called *kernel* which is trained to look for certain patterns in the image, and pass the output called *feature map* on to the next layer to be built upon. In this way, layer after layer the patterns that the network can detect get more complex.
+
+Let's take a look at kernels from the first Convolutional layer.
+![kernels](https://github.com/VallabhReddy/Image-Classification-Fashion-MNIST-CNN/blob/master/Images/Kernel%20Collection.png)
+
+*1st Convolutional Layer Kernels*
+
+We can see that these are not too complicated, they are usually straght lines or an unintelligible colleciton of pixels. Let us take our first image, which is a shirt and then look at the feature maps that neurons from the first convolutional layer.
+
+![Shirt](https://github.com/VallabhReddy/Image-Classification-Fashion-MNIST-CNN/blob/master/Images/Shirt.png)
+
+*Sample Shirt Image*
+
+
+![First Layer](https://github.com/VallabhReddy/Image-Classification-Fashion-MNIST-CNN/blob/master/Images/Conv1.png)
+
+*Feature maps of the 1st Convolutional layer*
+
+We mentioned earlier that as we get into deeper layers, the activation patterns change. So let's look at the 4th layer.
+
+![Fourth Layer](https://github.com/VallabhReddy/Image-Classification-Fashion-MNIST-CNN/blob/master/Images/Conv4.png)
+
+*Feature maps of the 4th Convolutional layer*
+
+We can see that the activations are much more abstract here. It might make sense that in order to differentiate apparel categories of different shapes, the network learns to look for a collection of abstract features subtle enough to differentiate each other.
+
+The notebook contains several architectures of CNNs and their performance is compared. I used the GPU implementation of TensorFlow since this increases the speed of deep learning model training exponentially, but the drawback is that the results are not perfectly reproducible and setting a seed does not work for the randomizing operations performed by the GPU.
 
 ### Results
 I was able to achieve a 91-93% accuracy of classifications on the test set using a 13 layer network.
