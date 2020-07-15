@@ -94,7 +94,7 @@ Using Keras for Python, the model is built of *Convolutional Neural Networks(CNN
 
 Let's take a look at kernels from the first Convolutional layer.
 
-![Kernels](Images/Kernel_Collection.png")
+![Kernels](Images/Kernel_Collection.png)
 
 *1st Convolutional Layer Kernels*
 
