@@ -85,7 +85,7 @@ The model is trained and tested on the [Fashion MNIST dataset](https://github.co
 
 Here's a look at a few sample images.
 
-<img src="https://github.com/VallabhReddy/Image-Classification-Fashion-MNIST-CNN/blob/master/Images/Sample%20Images.png" class="img-responsive" alt="Sample Images">
+[!Sample Images](Images/Sample%20Images.png)
 
 *Sample Images* 
 
