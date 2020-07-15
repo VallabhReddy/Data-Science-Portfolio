@@ -85,7 +85,7 @@ The model is trained and tested on the [Fashion MNIST dataset](https://github.co
 
 Here's a look at a few sample images.
 
-[!Sample Images](Images/Sample%20Images.png)
+![Sample Images](Images/Sample_Images.png)
 
 *Sample Images* 
 
@@ -94,18 +94,18 @@ Using Keras for Python, the model is built of *Convolutional Neural Networks(CNN
 
 Let's take a look at kernels from the first Convolutional layer.
 
-<img src = "https://github.com/VallabhReddy/Image-Classification-Fashion-MNIST-CNN/blob/master/Images/Kernel%20Collection.png" class = "img-responsive" alt = "Kernels">
+![Kernels](Images/Kernel_Collection.png")
 
 *1st Convolutional Layer Kernels*
 
 We can see that these are not too complicated, they are usually straght lines or an unintelligible colleciton of pixels. Let us take our first image, which is a shirt and then look at the feature maps that neurons from the first convolutional layer.
 
-![Shirt](https://github.com/VallabhReddy/Image-Classification-Fashion-MNIST-CNN/blob/master/Images/Shirt.png)
+![Shirt](Images/Shirt.png)
 
 *Sample Shirt Image*
 
 
-![First Layer](https://github.com/VallabhReddy/Image-Classification-Fashion-MNIST-CNN/blob/master/Images/Conv1.png)
+![First Layer](Images/Conv1.png)
 
 *Feature maps of the 1st Convolutional layer*
 
@@ -113,7 +113,7 @@ In certain images the vertical sides of the shirt are emphasized whereas in othe
 
 We mentioned earlier that as we get into deeper layers, the activation patterns change. So let's look at the 4th layer.
 
-![Fourth Layer](https://github.com/VallabhReddy/Image-Classification-Fashion-MNIST-CNN/blob/master/Images/Conv4.png)
+![Fourth Layer](Images/Conv4.png)
 
 *Feature maps of the 4th Convolutional layer*
 
