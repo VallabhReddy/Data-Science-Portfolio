@@ -85,7 +85,7 @@ The model is trained and tested on the [Fashion MNIST dataset](https://github.co
 
 Here's a look at a few sample images.
 
-<img src="https://github.com/VallabhReddy/Image-Classification-Fashion-MNIST-CNN/blob/master/Images/Sample%20Images.png" class="img-responsive" alt="Sample Images"> </div>
+<img src="https://github.com/VallabhReddy/Image-Classification-Fashion-MNIST-CNN/blob/master/Images/Sample%20Images.png" class="img-responsive" alt="Sample Images">
 
 *Sample Images* 
 
@@ -94,7 +94,7 @@ Using Keras for Python, the model is built of *Convolutional Neural Networks(CNN
 
 Let's take a look at kernels from the first Convolutional layer.
 
-<img src = "https://github.com/VallabhReddy/Image-Classification-Fashion-MNIST-CNN/blob/master/Images/Kernel%20Collection.png" class = "img-responsive" alt = "Kernels"></div>
+<img src = "https://github.com/VallabhReddy/Image-Classification-Fashion-MNIST-CNN/blob/master/Images/Kernel%20Collection.png" class = "img-responsive" alt = "Kernels">
 
 *1st Convolutional Layer Kernels*
 
