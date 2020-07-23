@@ -3,6 +3,8 @@
 This website exists primarily to share my data science projects and learnings with anyone who's willing to listen to my ramblings, but it may evolve over time.
 You may contact me through my [Linkedin Profile](https://www.linkedin.com/in/vallabh-reddyb/) or by mail at vallabh.reddyb@gmail.com.
 
+![Journey](Images/xkcd_Data_Science_Adventure.png)
+
 ## About Me
 
 My name is Vallabh Reddy. I have a bachelor's in Computer Science and a master's in Business Analytics. I have been working in the Data Science field since 2015 across a few domains, namely, fintech, healthcare and retail. Mu Sigma, a decision sciences firm to which companies outsource their analytics and problem solving, was my first company. After which I worked at Amazon's Last Mile department. I'm a 2020 University of Cincinnati grad. Yes, I'm one from the Coronavirus wave of Bearcats.
@@ -89,6 +91,11 @@ Here's a look at a few sample images.
 ![Sample Images](Images/Sample_Images.png)
 
 *Sample Images* 
+
+The dataset has no data quality issues and each category has an equal number of observations.
+
+![Dilbert](Images/Dilbert_Data_Quality.png)
+
 
 ### Methodology 
 Using Keras for Python, the model is built of *Convolutional Neural Networks(CNN)* which are especially effective in image comprehension. This is because each neuron in these Convolutional layers have a component called *kernel* which is trained to look for certain patterns in the image, and pass the output called *feature map* on to the next layer to be built upon. In this way, layer after layer the patterns that the network can detect get more complex.
@@ -264,6 +271,7 @@ The nature of this project was simply exploratory. I find the economy and its wo
      Note: The category of the goods being traded are sort of broad and usually do not mention the exact product. For example, 'Automotive
   2. [USD CPI Data](https://www.bls.gov/cpi/) - from the Bureau of Labor Statistics website hosted by the United States Department of Labor.
      I used the CPI data to adjust for inflation throughout these 20 years by setting the trade value to the dollar value of latest month in the dataset.
+
 
 ### Insights
 The analysis was done around trade value and not trade volume.
