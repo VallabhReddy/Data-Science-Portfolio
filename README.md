@@ -3,7 +3,7 @@
 This website exists primarily to share my data science projects and learnings with anyone who's willing to listen to my ramblings, but it may evolve over time.
 You may contact me through my [Linkedin Profile](https://www.linkedin.com/in/vallabh-reddyb/) or by mail at vallabh.reddyb@gmail.com.
 
-![Journey](Images/xkcd_Data_Science_Adventure.png)
+![Journey](Images/xkcd_Data_Science_Adventure.PNG)
 
 ## About Me
 
@@ -94,7 +94,7 @@ Here's a look at a few sample images.
 
 The dataset has no data quality issues and each category has an equal number of observations.
 
-![Dilbert](Images/Dilbert_Data_Quality.png)
+![Dilbert](Images/Dilbert_Data_Quality.PNG)
 
 
 ### Methodology 
