@@ -136,7 +136,7 @@ I was able to achieve a 91-93% accuracy of classifications on the test set using
 This project was a kaggle submission, and can be found [here](https://www.kaggle.com/vallabhreddy/eda-and-roberta-using-huggingface-trasformers)
 
 ### Introduction 
-The Conversation AI team, a research initiative founded by Google and Jigsaw, is tasked with improving the vigilance against online toxicity in conversation. The goal of [this competition](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/overview) is to be able to predict the toxicity of multilingual comments using only English comments as our training data. 
+The Conversation AI team, a research initiative founded by Google and Jigsaw, is tasked with improving the vigilance against online toxicity in conversation. The goal of [this competition](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/overview) is to be able to identify the toxicity of multilingual comments using only English comments as our training data. 
 
 Excerpts from the competition are given below.
 
