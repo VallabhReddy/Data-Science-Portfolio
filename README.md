@@ -29,6 +29,7 @@ Here is the **[Github link](https://github.com/VallabhReddy/Image-Classification
 
 ### Introduction
 The internet has only been getting more expansive. And this expanse brings unstructured data, like images. These are difficult to organize because the subjects in an image are not readily interpretable by machines. But deep learning innovation has picked up momentum and it is much easier to build models which are able to make sense of image data and classify their contents.
+
 The objective of this project was to build an image classifier that could recognize the category of apparel in the photo fed into it. Something that would be of import to online retailers who are flooded with swarms of images from their 3rd party seller or from the customers reviewing the product. This technology could inspect the image to confirm that the image does contain the product itself or a part of the product, otherwise the image could be flagged and inspected for irrelevance.
 
 ### Dataset
