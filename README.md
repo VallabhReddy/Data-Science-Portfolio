@@ -14,14 +14,14 @@ In my free time I like to read non-fiction works detailing natural and man-made 
 # Portfolio
 Below is a list of complete and ongoing public Data Science projects of mine. 
 
-1. [Image Classification on the Fashion MNIST dataset using Convolutional Neural Networks](#fashion_MNIST)
+1. [Apparel Image Classification using Convolutional Neural Networks](#fashion_MNIST)
 2. [Multilingual Toxic Comments Classification with only English training data - RoBERTa NLP Transformer](#multilingual_RoBERTa)
 3. [USA Foreign Trade Analysis](#US_trade_analysis)
 4. [Kickstarter Campaign Success Prediction](#kickstarter)
 
 
  
-## 1. Image Classification on the Fashion MNIST dataset using Convolutional Neural Networks <a name = 'fashion_MNIST'></a>
+## 1. Apparel Image Classification using Convolutional Neural Network <a name = 'fashion_MNIST'></a>
 
 Github does not represent certain features of a jupyter notebook well, such as the intra notebook anchors, so here's a link to open the notebook through **[NBViewer](https://nbviewer.jupyter.org/github/VallabhReddy/Image-Classification-Fashion-MNIST-CNN/blob/master/Fashion%20MNIST%20Image%20Classification.ipynb)**.
 
