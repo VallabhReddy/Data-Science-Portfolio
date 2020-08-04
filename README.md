@@ -265,7 +265,7 @@ I've also developed a dashboard using this data on Tableau and hosted it publicl
 It consists of commodity level, country level views of trade value as well as rankings.
 
 ### Introduction
-The nature of this project was simply exploratory. I find the economy and its workings fascinating and wanted to look into how US foreign trade has varied over time. This analysis was conducted for the years 1998-2018.
+International trade has been since ancient times and continues to be today, one of the largest cogs of the economy that propels industries forward. Trade ties make or break an economy. I find the complexity of trade fascinating and wanted to look into how US foreign trade has varied over time. This is an exploratory analysis conducted for the years 1998-2018.
 
 ### Datasets
   1. [US Trade Data](https://usatrade.census.gov) - from USA Trade online hosted by the US Department of Commerce.
