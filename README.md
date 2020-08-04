@@ -29,7 +29,7 @@ Here is the **[Github link](https://github.com/VallabhReddy/Image-Classification
 
 ### Introduction
 The internet has only been getting more expansive. And this expanse brings unstructured data, like images. These are difficult to organize because the subjects in an image are not readily interpretable by machines. But deep learning innovation has picked up momentum and it is much easier to build models which are able to make sense of image data and classify their contents.
-The objective of this project was to build an image classifier that could recognize the category of apparel in the photo fed into it.
+The objective of this project was to build an image classifier that could recognize the category of apparel in the photo fed into it. Something that would be of import to online retailers who are flooded with swarms of images from their 3rd party seller or from the customers reviewing the product. This technology could inspect the image to confirm that the image does contain the product itself or a part of the product, otherwise the image could be flagged and inspected for irrelevance.
 
 ### Dataset
 The model is trained and tested on the [Fashion MNIST dataset](https://github.com/zalandoresearch/fashion-mnist). The dataset is provided by the research branch of Zalando, a European e-commerce company. The dataset is made up of 28x28 grayscale images of 10 categories of apparel. There are 60,000 observations in the training set and 10,000 observations in the test set. The mapping for the 10 categories of apparel is given below.
