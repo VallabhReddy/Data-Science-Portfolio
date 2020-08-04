@@ -17,7 +17,7 @@ Below is a list of complete and ongoing public Data Science projects of mine.
 1. [Apparel Image Classification using Convolutional Neural Networks](#fashion_MNIST)
 2. [Multilingual Toxic Comments Classification with only English training data - RoBERTa NLP Transformer](#multilingual_RoBERTa)
 3. [USA Foreign Trade Analysis](#US_trade_analysis)
-4. [Kickstarter Campaign Success Prediction](#kickstarter)
+4. [Kickstarter Campaign Success Prediction](#Kickstarter)
 
 
  
