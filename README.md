@@ -7,9 +7,11 @@ You may contact me through my [Linkedin Profile](https://www.linkedin.com/in/val
 
 ## About Me
 
-My name is Vallabh Reddy. I have a bachelor's in Computer Science and a master's in Business Analytics. I have been working in the Data Science field since 2015 across a few domains, namely, fintech, healthcare and retail. Mu Sigma, a data sciences firm to which companies outsource their analytics and problem solving, was my first company. After which I worked at Amazon's Last Mile department. I'm a 2020 University of Cincinnati grad. Yes, I'm one from the Coronavirus wave of Bearcats.
+My name is Vallabh Reddy. I'm a Data Scientist and developer with a penchant for cognitive stimuli. I've worked in Data Science, ML, and consulting for around 8 years. I'm a supply chain SME with 5 years of work at Amazon's global exports division under my belt where I helped the company realize operating efficiencies and cost saving opportunities through the use of ML techniques and statistical simulations.
 
-In my free time I like to read non-fiction works detailing natural and man-made systems and I play squash and videogames. Also, I'm always willing to try new board games.
+I play squash, strategy games, and built my own PC. I love reading up on natural and man-made systems like the economy and what makes them tick. 
+
+
 
 # Portfolio
 Below is a list of complete and ongoing public Data Science projects of mine. 
